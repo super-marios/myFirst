@@ -1,4 +1,4 @@
-#Personal projects
+#Personal Project
 
 ----
 
